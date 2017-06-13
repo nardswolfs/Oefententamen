@@ -1,0 +1,4 @@
+soos (4, 0) Horizontaal
+parteretrap (0, 5) Horizontaal
+neen (5, 10) Horizontaal
+paap (10, 5) Verticaal
