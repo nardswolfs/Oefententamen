@@ -24,7 +24,7 @@ public:
 	}
 
 	bool operator<(const Persoon& persoon) {
-		int length = persoon._naam.length() - _naam.length();
+		size_t length = persoon._naam.length() - _naam.length();
 		if (length < 0) length *= -1;
 		for (int i = 0; i < length; i++)
 		{
